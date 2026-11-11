@@ -1,0 +1,37 @@
+Reference Links for Workshops (require Your OWN AWS Account):
+--------------------------------------------------------------
+Getting Started with Amazon Bedrock AgentCore: https://catalog.us-east-1.prod.workshops.aws/workshops/c770f35f-90a9-4e02-8985-4ef912bddb77/en-US
+
+Web Search on AWS via AgentCore Gateway: https://catalog.us-east-1.prod.workshops.aws/workshops/d2ed0c4d-732c-4df5-864a-5c5509d22977/en-US
+
+Strands Agents Hands-On: https://catalog.us-east-1.prod.workshops.aws/workshops/083b80d7-5a90-402b-9bb4-19fb53092808/en-US
+
+Diving Deep with Amazon Bedrock AgentCore - https://catalog.us-east-1.prod.workshops.aws/workshops/015a2de4-9522-4532-b2eb-639280dc31d8/en-US
+
+Agentic Backtesting for Quants by Bedrock AgentCore and Strands Agents: 
+https://catalog.us-east-1.prod.workshops.aws/workshops/dcf31eb4-6479-48ed-acc5-e58fe1f53656/en-US
+
+===============================================================
+
+Reference Links for AWS SkillBuilder Labs and digital courses (Does NOT require Your OWN AWS Account):
+---------------------------------------------------------------
+
+Building Context-Aware Agents with AgentCore Memory: 
+https://skillbuilder.aws/learn/GDYNKD8GPF/aws-simulearn-building-contextaware-agents-with-agentcore-memory/35FHV53SJV
+
+Designing lifecycle policies for AgentCore memory:
+https://skillbuilder.aws/learn/N6QV52QRJ7/designing-lifecycle-policies-for-agentcore-memory/7XNW2YC9S9
+
+Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases:
+https://skillbuilder.aws/learn/71GXBJX1H5/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/WJ8SXW3C14
+
+Build with AgentCore Memory and Gateway: https://skillbuilder.aws/learn/26BPZTDXB6/aws-simulearn-build-with-agentcore-memory-and-gateway/2WSXXCDY68
+
+Secure AI Agent Access with Amazon Bedrock AgentCore Identity:
+https://skillbuilder.aws/learn/BUYCUB2WR3/lab--secure-ai-agent-access-with-amazon-bedrock-agentcore-identity/Z77D32673S
+
+Orchestrating AI Agents with AgentCore Runtime:
+https://skillbuilder.aws/learn/J8QR8YU2N3/aws-simulearn-orchestrating-ai-agents-with-agentcore-runtime/8KWSYHKT37
+
+Deploying Intelligent Agents with Amazon Bedrock AgentCore Runtime:
+https://skillbuilder.aws/learn/WDJZ5VUCHG/lab--deploying-intelligent-agents-with-amazon-bedrock-agentcore-runtime/JYQQ287BB7
